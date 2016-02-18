@@ -1,2 +1,1 @@
 # Primeri
-Primeri Java EE
